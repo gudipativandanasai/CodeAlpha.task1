@@ -1,2 +1,3 @@
-# CodeAlpha.task1
+# CodeAlpha.tasks
 Hangman game 
+Chatbot Scope
